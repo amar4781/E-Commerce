@@ -20,10 +20,8 @@
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/vendors/css/charts/morris.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/vendors/css/charts/chartist.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/vendors/css/forms/selects/select2.min.css')}}">
-    <link rel="stylesheet" type="text/css"
-          href="{{asset('assets/admin/vendors/css/charts/chartist-plugin-tooltip.css')}}">
-    <link rel="stylesheet" type="text/css"
-          href="{{asset('assets/admin/vendors/css/forms/toggle/bootstrap-switch.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/vendors/css/charts/chartist-plugin-tooltip.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/vendors/css/forms/toggle/bootstrap-switch.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/vendors/css/forms/toggle/switchery.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/css-rtl/core/menu/menu-types/vertical-menu.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/css-rtl/pages/chat-application.css')}}">
@@ -33,8 +31,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/css-rtl/custom-rtl.css')}}">
     <!-- END MODERN CSS-->
     <!-- BEGIN Page Level CSS-->
-    <link rel="stylesheet" type="text/css"
-          href="{{asset('assets/admin/css-rtl/core/menu/menu-types/vertical-menu.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/css-rtl/core/menu/menu-types/vertical-menu.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/css-rtl/core/colors/palette-gradient.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/fonts/simple-line-icons/style.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('assets/admin/css-rtl/core/colors/palette-gradient.css')}}">
@@ -55,8 +52,7 @@
         }
     </style>
 </head>
-<body class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar"
-      data-open="click" data-menu="vertical-menu" data-col="2-columns">
+<body class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar" data-open="click" data-menu="vertical-menu" data-col="2-columns">
 <!-- fixed-top-->
 @include('dashboard.includes.header')
 <!-- ////////////////////////////////////////////////////////////////////////////-->
