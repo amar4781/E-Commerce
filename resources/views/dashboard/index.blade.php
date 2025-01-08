@@ -107,14 +107,11 @@
 
                 <!-- Sell Orders & Buy Order -->
                 <div class="row match-height">
-                    <div class="col-12">
+                    <div class="col-12 col-xl-8">
                         <div class="card">
                             <div class="card-header">
                                 <h4 class="card-title">أحدث الطلبات</h4>
                                 <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
-                                <div class="heading-elements">
-                                    <p class="text-muted">Total BTC available: 6542.56585</p>
-                                </div>
                             </div>
                             <div class="card-content">
                                 <div class="table-responsive">
@@ -142,14 +139,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12">
+                    <div class="col-12 col-xl-4">
                         <div class="card">
                             <div class="card-header">
                                 <h4 class="card-title">آخر التقييمات</h4>
                                 <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
-                                <div class="heading-elements">
-                                    <p class="text-muted">Total USD available: 9065930.43</p>
-                                </div>
                             </div>
                             <div class="card-content">
                                 <div class="table-responsive">
